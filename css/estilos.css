@@ -1,9 +1,9 @@
 body
 {
-    color: #333;
+    color: rgb(255, 89, 0);
     text-align: center;
-    font-family: "Arial";
-    font-size: 16px;
+    font-family: "Comic Sans MS";
+    font-size: 20px;
     margin: 0;
     padding: 0;
 }
