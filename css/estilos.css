@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color: rgb(51, 0, 255);
+=======
+    color: rgb(255, 140, 0);
+>>>>>>> cabecera
     text-align: center;
     font-family: "Comic Sans MS";
     font-size: 16px;
