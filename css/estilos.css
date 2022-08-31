@@ -1,9 +1,9 @@
 body
 {
 <<<<<<< HEAD
-    color: rgb(51, 0, 255);
+    color: #orange;
 =======
-    color: rgb(255, 140, 0);
+    color: #blue;
 >>>>>>> cabecera
     text-align: center;
     font-family: "Comic Sans MS";
