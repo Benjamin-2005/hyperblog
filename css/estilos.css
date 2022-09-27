@@ -1,5 +1,7 @@
 body
 {
+    color: rgb(255, 140, 0)
+
     background: rgb(255, 132, 0);
     color: rgb(255, 72, 0)
     text-align: "Center";
@@ -24,7 +26,6 @@ body
     width: 50px;
     vertical-align: middle;
 }
-
 #cabecera #tagline
 {
     margin: 0 0 0 1em;
