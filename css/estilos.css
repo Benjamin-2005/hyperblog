@@ -1,15 +1,13 @@
 body
 {
-    color: rgb(255, 140, 0)
-
+    color: rgb(255, 140, 0);
     background: rgb(255, 132, 0);
-    color: rgb(255, 72, 0)
+    color: rgb(255, 72, 0);
     text-align: "Center";
     font-family: "Comic Sans MS";
     font-size: 30px;
     margin: 0;
     padding: 0;
-  
 }
 #cabecera 
 {
